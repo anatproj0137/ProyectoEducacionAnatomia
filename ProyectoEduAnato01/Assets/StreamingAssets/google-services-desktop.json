@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199671305539",
+    "project_id": "proyectoeducacionanatomia01",
+    "storage_bucket": "proyectoeducacionanatomia01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199671305539:android:b6d72323105c27f0710bf6",
+        "android_client_info": {
+          "package_name": "com.pruebas.Anatomia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199671305539-5q1e8m8q4gh7vleao8f2t02i9r5d286a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjD69ApikoAb-_kfQq2c06hnllXIs5mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199671305539-5q1e8m8q4gh7vleao8f2t02i9r5d286a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

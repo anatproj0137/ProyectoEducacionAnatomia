@@ -4,5 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CoraInterno.unity
+    guid: 76508c3a3430bb8418264122edf29c05
+  - enabled: 0
+    path: Assets/Scenes/Corazon.unity
+    guid: 858ce3049231ef74b8cc3563e33aef2d
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: d6eba684f087e964c810e9e9d457d107
+  - enabled: 0
+    path: Assets/Scenes/Organos.unity
+    guid: fb38ae7d12c9a8143a1b41e508901518
+  - enabled: 0
+    path: Assets/Scenes/Panatalla.unity
+    guid: 7a776201e3bc8ab4b8fc81c968b0e1b2
+  - enabled: 0
+    path: Assets/Scenes/Registro.unity
+    guid: 212cc49ee80d46146b56061301f3dbb5
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Teoria.unity
+    guid: 76e5f69a49d8fe3438c3c7b94b5ace7c
+  - enabled: 1
+    path: Assets/Scenes/NewScenes/0-MainScene.unity
+    guid: f46f8327d74e7eb44aed28e4358b0020
+  - enabled: 0
+    path: Assets/Scenes/NewScenes/1-Concepts.unity
+    guid: 5d3e8009ff954c24eabfd67613ebeef0
+  - enabled: 0
+    path: Assets/Scenes/NewScenes/2-Questions.unity
+    guid: d05decdf5055c28439757eedcc28fa5d
   m_configObjects: {}
